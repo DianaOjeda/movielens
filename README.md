@@ -4,7 +4,7 @@ This repository contains the first of the two required projects for the
 EDX data science certificate program.
 It contains the following three files:
 - movielenseDO.R  File that contains all the coding used to download andexplore the data and build the model. Lines
-427 to 482 (finding number of knots for splines moddels) contain loops that take about one hour to complete. 
+427 to 482 (finding number of knots for splines moddels) contain 2 loops that take about one hour to complete each. 
 The model fit in line 486 has the parameters obtained from the loops included, in case the person evaluating the project wishes
 to run the file faster by skipping those lines. 
   
