@@ -14,3 +14,11 @@ download of the data.
 - projectDO.pdf resulting from the rendering of the Movielense.Rmd file. Note that not all the code included in 
   the .Rmd file is shown in the pdf.
 
+The rmd and R file require the following libraries:
+tidyverse
+lubridate
+caret
+mgcv
+dslabs
+data.table
+gridExtra
